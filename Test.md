@@ -1,1 +1,0 @@
-$$w_{new} = w - lr \cdot grad_w$$ $$b_{new} = b - lr \cdot grad_b$$
